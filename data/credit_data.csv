@@ -1,0 +1,1001 @@
+age,income,loan_amount,loan_tenure,num_credit_cards,existing_debts,missed_payments,employment_type,education,creditworthy
+59,24018,6742,2,3,8848,9,Self-Employed,Post-Graduate,0
+49,31302,23309,5,1,16549,2,Salaried,High School,0
+35,87506,5619,3,5,13136,5,Salaried,Post-Graduate,1
+63,61157,22658,9,3,20975,5,Salaried,Post-Graduate,0
+28,74917,39707,4,2,589,2,Unemployed,Post-Graduate,1
+41,112738,25337,6,3,20908,2,Self-Employed,Post-Graduate,1
+59,116646,21001,2,3,19205,7,Self-Employed,High School,1
+39,103122,5968,6,2,28834,7,Salaried,Post-Graduate,0
+43,44519,30892,3,4,6509,6,Salaried,Graduate,0
+31,116809,30619,9,4,7693,9,Self-Employed,Post-Graduate,1
+31,107487,5281,2,1,9454,3,Salaried,Post-Graduate,1
+44,76819,32420,9,1,16455,3,Salaried,High School,1
+56,100910,20360,5,4,11708,2,Self-Employed,High School,1
+60,91324,44030,8,5,12942,4,Salaried,Graduate,1
+44,25408,6058,2,3,19964,2,Salaried,Post-Graduate,0
+23,79379,25677,6,5,24346,7,Salaried,Post-Graduate,0
+42,45053,15724,3,3,16652,6,Salaried,Post-Graduate,0
+22,29446,33404,5,4,9968,2,Unemployed,Graduate,1
+44,20922,42946,8,1,2462,8,Salaried,High School,0
+64,118723,44748,1,1,9460,4,Salaried,Graduate,1
+50,71356,34856,5,5,1015,8,Salaried,Post-Graduate,0
+58,30789,14200,3,1,27298,6,Self-Employed,High School,0
+22,117720,38997,4,4,9275,6,Salaried,High School,1
+41,86656,30611,2,5,28677,5,Salaried,Graduate,0
+53,64028,46235,9,3,13269,1,Salaried,High School,1
+32,84484,40057,3,1,24368,8,Salaried,High School,0
+42,52154,6239,2,2,406,5,Salaried,Post-Graduate,1
+64,102870,43138,9,1,7384,7,Self-Employed,Post-Graduate,1
+45,22336,5125,7,3,22433,0,Self-Employed,High School,0
+47,87779,28857,6,5,22553,4,Salaried,High School,1
+62,39029,20398,1,3,24366,0,Salaried,Graduate,1
+48,79201,11638,5,2,11268,9,Unemployed,Graduate,0
+36,52265,11570,3,4,17369,7,Salaried,High School,0
+35,63872,8249,1,1,11795,7,Self-Employed,Post-Graduate,0
+64,66197,14110,4,5,4485,0,Salaried,High School,1
+23,75180,45363,2,4,8901,8,Unemployed,High School,0
+57,43710,18605,2,3,2618,1,Self-Employed,Post-Graduate,1
+27,49486,17115,3,5,29425,8,Unemployed,Post-Graduate,0
+41,91907,44062,8,4,22673,0,Self-Employed,Graduate,1
+29,91895,27911,8,5,9603,9,Salaried,Graduate,0
+59,84435,43525,7,2,6928,8,Unemployed,Graduate,0
+38,60631,37556,6,2,5368,3,Salaried,Graduate,1
+24,40103,17595,9,1,4621,8,Salaried,Post-Graduate,0
+45,84772,6969,4,1,26061,6,Self-Employed,High School,0
+34,34382,48753,1,2,27526,5,Self-Employed,Graduate,0
+29,104291,22275,8,5,14719,4,Unemployed,Graduate,1
+46,23756,9470,7,2,29227,8,Salaried,Post-Graduate,0
+22,40609,15225,7,1,11126,1,Self-Employed,Post-Graduate,1
+40,36478,47324,3,2,7566,1,Self-Employed,High School,1
+48,59666,46974,4,2,12306,8,Salaried,High School,0
+27,95683,47759,9,5,21054,2,Salaried,Post-Graduate,1
+64,119097,28196,6,4,24042,7,Salaried,Graduate,1
+28,91315,45287,5,1,15086,8,Salaried,Graduate,0
+55,97834,18669,3,5,17387,7,Unemployed,Graduate,0
+34,34153,42380,9,2,27042,3,Self-Employed,High School,0
+37,96325,43006,5,2,23888,0,Self-Employed,Graduate,1
+56,32999,20577,5,4,18850,3,Unemployed,Graduate,0
+60,75318,27473,4,1,26514,8,Salaried,Post-Graduate,0
+24,20814,33625,4,1,18323,1,Self-Employed,Graduate,0
+22,96077,20504,1,3,18019,2,Salaried,Post-Graduate,1
+26,110474,29089,7,1,9890,9,Self-Employed,Graduate,0
+62,22443,41487,9,4,8095,7,Salaried,High School,0
+24,95993,5302,3,3,22649,5,Unemployed,Graduate,1
+49,95916,36463,2,3,12719,7,Salaried,Graduate,1
+38,93319,49912,3,2,10283,6,Salaried,Post-Graduate,1
+46,37368,34259,1,2,18279,4,Self-Employed,Post-Graduate,0
+64,35328,47823,6,1,14231,8,Salaried,Post-Graduate,0
+54,76942,42208,7,3,22908,3,Self-Employed,Graduate,1
+30,111751,35659,2,2,28816,5,Salaried,Graduate,1
+56,119131,40840,8,4,27974,1,Self-Employed,High School,1
+34,47306,36890,6,2,14698,1,Salaried,Graduate,1
+51,105451,18598,4,2,17457,1,Salaried,High School,1
+35,59915,24508,5,3,5184,9,Salaried,Post-Graduate,0
+28,57219,47287,8,3,2402,6,Salaried,Post-Graduate,0
+34,100879,18380,3,5,4895,1,Salaried,Post-Graduate,1
+43,84644,31984,3,4,23715,1,Salaried,High School,1
+60,80279,49633,4,3,11404,8,Salaried,Graduate,0
+41,73028,13125,1,1,28613,6,Salaried,Post-Graduate,0
+36,20126,41059,9,4,15161,2,Salaried,Graduate,0
+38,72329,9033,8,4,9343,2,Self-Employed,Graduate,1
+44,47632,42873,8,3,10637,6,Salaried,Post-Graduate,0
+46,85310,22087,6,4,1956,4,Salaried,High School,1
+45,75176,45901,7,3,7023,9,Self-Employed,Graduate,0
+61,106066,10704,6,2,29134,5,Salaried,Post-Graduate,1
+49,64327,12848,9,5,14062,7,Self-Employed,Graduate,0
+35,88904,26592,3,2,14333,8,Salaried,Graduate,0
+21,23797,11924,3,3,3907,0,Salaried,Graduate,1
+45,67882,32208,3,3,807,2,Salaried,Graduate,1
+27,33718,24614,3,2,24762,6,Self-Employed,Graduate,0
+29,54560,5488,9,1,14031,5,Self-Employed,High School,0
+44,96589,44882,4,1,4827,6,Salaried,High School,1
+21,42116,30923,7,1,29885,7,Salaried,Post-Graduate,0
+64,56244,40941,9,3,13699,5,Unemployed,High School,0
+28,21645,34165,7,4,4524,2,Salaried,High School,1
+44,67523,6667,9,3,15193,1,Salaried,High School,1
+31,39256,31213,3,4,25883,6,Unemployed,Graduate,0
+37,73173,9114,4,2,16223,0,Self-Employed,Graduate,1
+28,57430,41321,8,5,18668,2,Salaried,Post-Graduate,1
+55,59282,12761,6,4,5313,3,Self-Employed,Post-Graduate,1
+55,83374,36116,5,1,13598,0,Self-Employed,Post-Graduate,1
+53,88244,38768,4,3,13058,4,Salaried,Graduate,1
+25,31694,30426,8,2,17141,9,Salaried,High School,0
+62,76264,22772,1,1,28807,2,Salaried,High School,1
+59,95060,43218,9,2,4887,1,Unemployed,Graduate,1
+61,117416,8712,1,5,3854,2,Self-Employed,Post-Graduate,1
+48,77545,6367,8,3,12458,7,Salaried,Post-Graduate,0
+27,59224,45957,4,3,26782,5,Self-Employed,Post-Graduate,0
+29,117945,46781,9,5,14536,6,Salaried,Graduate,1
+28,33224,31200,5,3,3558,5,Salaried,Post-Graduate,0
+32,60738,8726,3,4,9772,5,Salaried,Post-Graduate,0
+54,45150,28616,9,2,17345,2,Salaried,Graduate,1
+53,83731,32723,9,1,20231,7,Self-Employed,High School,0
+43,69688,42574,4,5,23110,6,Salaried,Graduate,0
+44,119929,39958,4,4,3575,6,Self-Employed,Graduate,1
+57,93509,14108,8,1,25451,5,Salaried,Graduate,0
+55,28577,17178,2,1,2418,4,Salaried,Graduate,0
+64,28070,40643,9,5,4198,9,Unemployed,High School,0
+60,28666,36324,6,4,1001,7,Salaried,Post-Graduate,0
+42,77761,43360,9,1,21628,4,Salaried,Graduate,1
+47,56368,22824,8,1,27960,8,Salaried,High School,0
+55,26783,13927,7,4,7119,8,Self-Employed,Post-Graduate,0
+21,61914,33144,1,3,20450,0,Salaried,Post-Graduate,1
+55,90507,36010,3,1,19229,5,Salaried,Post-Graduate,1
+57,99026,27443,2,2,9673,6,Salaried,Graduate,1
+34,87526,19437,5,4,27877,2,Salaried,Graduate,1
+23,90835,49298,5,1,25233,6,Self-Employed,Post-Graduate,0
+21,65765,44778,5,5,5316,6,Salaried,Post-Graduate,0
+25,39956,16207,4,2,16244,1,Salaried,Post-Graduate,1
+46,107895,30537,5,1,27356,6,Salaried,Post-Graduate,0
+34,66240,40757,3,2,16806,0,Salaried,Post-Graduate,1
+59,57148,17040,1,2,23099,4,Unemployed,Post-Graduate,0
+47,114270,46986,5,3,11873,8,Salaried,High School,1
+29,24757,27612,9,2,4266,6,Unemployed,Post-Graduate,0
+35,39097,33441,9,3,7549,6,Salaried,Graduate,0
+35,30395,11471,4,4,22700,1,Salaried,Graduate,0
+46,36241,40631,3,3,19094,7,Self-Employed,Graduate,0
+62,47696,48461,1,5,25028,2,Salaried,Post-Graduate,0
+33,90480,31523,2,1,10589,7,Self-Employed,Graduate,1
+52,66163,36348,8,4,24453,2,Unemployed,High School,1
+59,39816,6177,1,4,26551,9,Salaried,Post-Graduate,0
+52,69840,9760,8,5,1657,6,Salaried,Graduate,1
+24,72853,37779,7,3,18925,1,Self-Employed,High School,1
+50,44917,26636,8,1,6763,3,Salaried,High School,1
+57,116731,21353,6,3,19459,5,Salaried,Graduate,1
+43,41566,16556,9,2,3164,8,Salaried,High School,0
+59,95452,32598,3,3,27542,4,Salaried,Graduate,1
+35,82823,16563,4,4,18437,8,Self-Employed,High School,0
+63,40806,48790,6,1,8479,4,Salaried,Post-Graduate,0
+49,95520,13234,8,3,5737,9,Salaried,Post-Graduate,0
+56,21759,30519,5,1,19601,7,Self-Employed,Post-Graduate,0
+33,61949,31966,3,1,28430,0,Salaried,Post-Graduate,1
+52,112374,21173,6,2,17831,6,Salaried,Post-Graduate,1
+27,22482,31987,4,2,6009,3,Self-Employed,Graduate,0
+42,44442,18178,9,4,16991,4,Salaried,Post-Graduate,0
+48,53719,44338,3,5,4552,5,Self-Employed,Post-Graduate,0
+22,78066,29596,4,1,18148,4,Self-Employed,Post-Graduate,1
+62,113501,38174,7,5,9417,0,Salaried,Post-Graduate,1
+26,22079,46974,7,4,25811,8,Salaried,High School,0
+48,22717,9431,4,1,9221,1,Salaried,Post-Graduate,1
+48,79676,32764,6,1,2671,8,Salaried,Post-Graduate,0
+64,47952,26627,3,5,6519,9,Self-Employed,Graduate,0
+64,106444,44310,6,3,3962,1,Self-Employed,High School,1
+40,62460,13906,2,2,12734,8,Salaried,Graduate,0
+50,110397,41914,8,3,13122,5,Self-Employed,Post-Graduate,1
+31,92847,49814,2,5,19561,8,Unemployed,Graduate,0
+48,113607,18076,7,2,3722,5,Unemployed,Graduate,1
+45,109106,42650,9,3,4906,5,Salaried,Post-Graduate,1
+59,38449,11012,1,2,7263,1,Salaried,High School,1
+53,53536,12151,8,1,13699,7,Salaried,High School,0
+21,84077,33211,7,3,21438,2,Unemployed,Graduate,1
+47,58258,32117,6,2,26051,6,Salaried,Post-Graduate,0
+33,68302,41378,6,2,11088,4,Salaried,Graduate,1
+61,48865,47652,6,2,808,2,Salaried,Graduate,1
+23,26645,11894,9,3,9170,0,Salaried,Graduate,1
+59,58000,18467,2,4,16260,7,Salaried,Post-Graduate,0
+26,46737,36010,1,3,27039,2,Unemployed,Post-Graduate,0
+28,31485,47641,6,5,17109,1,Salaried,High School,1
+47,58565,17289,8,3,10693,0,Salaried,Post-Graduate,1
+29,45522,49976,3,2,27938,3,Salaried,Graduate,0
+57,85155,48596,1,1,7701,7,Salaried,Graduate,1
+53,75168,28171,9,3,17600,2,Salaried,High School,1
+62,72487,39905,1,3,20435,0,Salaried,Post-Graduate,1
+64,32342,25829,3,2,18581,3,Salaried,Graduate,0
+44,60806,39054,8,1,14191,8,Salaried,High School,0
+35,68770,49139,3,1,19190,0,Salaried,High School,1
+52,98623,34734,4,5,25354,1,Salaried,Graduate,1
+52,119785,12052,8,3,17356,8,Unemployed,Graduate,1
+44,95629,8654,1,1,27386,1,Unemployed,Post-Graduate,1
+61,72603,28486,6,1,22018,2,Salaried,High School,1
+32,101974,23743,1,4,13704,6,Salaried,Graduate,1
+59,46399,29489,1,4,23867,2,Unemployed,High School,0
+22,105382,13636,8,1,2123,8,Salaried,Post-Graduate,1
+23,101244,11441,4,5,25174,5,Self-Employed,Graduate,1
+57,96534,29611,1,1,11533,2,Unemployed,Post-Graduate,1
+37,75106,47435,7,2,16608,8,Salaried,High School,0
+22,50678,17149,5,3,14448,0,Salaried,Post-Graduate,1
+22,96218,39566,5,5,14586,9,Unemployed,Post-Graduate,0
+48,83230,47368,1,2,25416,2,Salaried,High School,1
+43,94055,26675,6,5,1814,0,Salaried,Post-Graduate,1
+57,76373,10495,9,2,13001,1,Salaried,High School,1
+52,51480,47668,9,3,17490,7,Salaried,Graduate,0
+53,105230,18673,8,3,16508,6,Self-Employed,High School,1
+21,88836,16130,5,4,19630,1,Self-Employed,High School,1
+39,92258,27668,1,2,13380,1,Unemployed,Graduate,1
+22,59986,20222,9,4,15406,8,Salaried,High School,0
+64,44160,28669,1,2,2931,5,Salaried,Graduate,0
+46,105595,39068,8,4,13567,4,Salaried,Graduate,1
+52,99111,28253,5,3,14038,9,Salaried,High School,0
+26,84929,14435,3,5,12317,5,Salaried,Post-Graduate,1
+52,93506,33552,7,4,2971,8,Unemployed,Post-Graduate,1
+24,54911,42384,7,2,2017,6,Self-Employed,Graduate,0
+31,107127,21393,9,2,23799,9,Salaried,Post-Graduate,0
+37,51821,15617,7,3,2415,9,Self-Employed,Post-Graduate,0
+58,95039,43520,3,2,29166,8,Salaried,High School,0
+44,80535,14852,1,1,19480,3,Salaried,Graduate,1
+25,104458,36401,8,5,1609,1,Self-Employed,Graduate,1
+54,32175,11295,3,4,717,7,Salaried,High School,0
+26,74771,40993,8,5,19945,3,Unemployed,Post-Graduate,1
+42,106925,39084,8,3,25592,8,Self-Employed,Graduate,0
+31,86358,44575,5,4,28141,3,Salaried,Post-Graduate,1
+36,37327,41451,1,4,29277,7,Self-Employed,Graduate,0
+53,67057,12227,7,1,12662,8,Salaried,Graduate,0
+29,26150,36910,5,3,6782,8,Salaried,Graduate,0
+26,24425,41041,8,2,26536,9,Salaried,Graduate,0
+36,36032,28384,9,1,1048,3,Salaried,Post-Graduate,1
+49,22198,5145,7,1,25933,0,Self-Employed,Post-Graduate,0
+23,80500,42778,7,5,11618,2,Salaried,Post-Graduate,1
+40,73394,21035,1,5,8307,8,Self-Employed,Post-Graduate,0
+56,40079,8040,4,5,26671,3,Salaried,High School,0
+39,56220,47422,2,1,7905,4,Salaried,Graduate,1
+46,61874,31160,2,2,9993,6,Self-Employed,Graduate,0
+23,33859,22633,2,4,10338,4,Salaried,Graduate,0
+39,70460,34344,4,5,5578,3,Salaried,High School,1
+40,51419,22014,1,2,13834,1,Salaried,Post-Graduate,1
+52,28705,19996,4,3,18004,1,Salaried,Graduate,0
+27,62880,46621,2,5,6548,3,Salaried,Post-Graduate,1
+61,43236,16695,5,4,7381,9,Self-Employed,Post-Graduate,0
+53,107955,7852,3,3,21164,9,Salaried,High School,0
+60,105514,21014,8,3,27526,8,Salaried,High School,0
+59,35358,32042,4,4,20176,7,Unemployed,Post-Graduate,0
+38,119713,38755,1,5,2941,2,Salaried,Graduate,1
+60,114914,45390,1,1,5695,8,Self-Employed,Graduate,1
+21,96918,28711,3,4,6401,4,Salaried,High School,1
+31,34596,31122,9,4,15179,2,Salaried,High School,0
+48,53572,14160,7,4,14456,4,Self-Employed,High School,0
+45,98757,32213,2,3,13097,9,Salaried,High School,0
+43,21279,44420,9,2,25553,3,Self-Employed,High School,0
+51,83197,12421,2,1,6197,7,Salaried,High School,1
+50,82516,26400,3,5,27642,4,Salaried,High School,0
+62,27083,38537,2,5,5450,9,Salaried,Graduate,0
+55,37771,22727,3,2,25359,7,Salaried,High School,0
+27,49975,9358,6,4,24816,8,Self-Employed,High School,0
+36,65648,33482,9,1,22258,3,Salaried,Graduate,1
+46,68285,37117,9,5,17937,6,Unemployed,Graduate,0
+22,39063,28164,7,5,29154,1,Unemployed,Post-Graduate,0
+21,87642,36910,3,4,17396,5,Salaried,High School,1
+32,110093,37496,4,2,8378,7,Salaried,High School,1
+25,106143,49311,6,1,1881,6,Self-Employed,High School,1
+57,57599,34371,5,2,6799,6,Unemployed,High School,0
+52,71920,43467,2,2,14597,7,Salaried,Post-Graduate,0
+29,48529,22625,6,1,29624,6,Salaried,Graduate,0
+61,55954,38893,3,1,13675,4,Salaried,Graduate,0
+55,47856,15793,8,5,4586,6,Self-Employed,High School,0
+39,22573,36007,2,5,25006,9,Salaried,High School,0
+36,98344,30766,1,1,8430,2,Self-Employed,High School,1
+23,55367,44532,9,3,22831,4,Salaried,Post-Graduate,0
+40,119608,17323,3,5,2345,6,Salaried,Post-Graduate,1
+44,80774,12843,1,3,16459,8,Salaried,Graduate,0
+53,43752,19210,7,1,9548,1,Salaried,High School,1
+44,75029,21456,5,5,5877,3,Salaried,High School,1
+31,37685,36367,5,2,6785,6,Salaried,High School,0
+28,71693,15106,1,1,15833,0,Salaried,High School,1
+56,75961,42957,9,4,4922,1,Salaried,Post-Graduate,1
+58,96908,7472,7,3,24474,8,Salaried,Graduate,0
+60,94532,11704,8,1,18714,9,Unemployed,Graduate,0
+40,101994,8713,9,1,4686,6,Salaried,Post-Graduate,1
+55,76133,10051,6,5,14407,9,Salaried,High School,0
+45,117425,15756,5,5,18286,6,Salaried,Graduate,1
+55,81268,7475,6,5,12205,5,Unemployed,Graduate,1
+45,112201,41378,2,4,21054,2,Salaried,Post-Graduate,1
+49,58243,9255,4,5,23527,9,Self-Employed,High School,0
+38,77384,19484,3,1,13179,2,Self-Employed,Graduate,1
+38,51653,39503,7,5,18443,1,Self-Employed,High School,1
+22,46657,13258,9,2,16524,5,Salaried,Graduate,0
+55,59952,45747,5,5,18173,3,Self-Employed,Post-Graduate,1
+36,42180,40196,6,4,28202,4,Salaried,High School,0
+61,117432,45194,2,2,16,2,Salaried,Post-Graduate,1
+56,98411,13533,3,1,13374,5,Self-Employed,Graduate,1
+53,21622,37581,3,1,28924,2,Salaried,Post-Graduate,0
+24,68756,10249,9,3,16848,7,Self-Employed,Post-Graduate,0
+53,60809,24201,7,2,20855,8,Salaried,Post-Graduate,0
+34,36725,14686,8,3,18211,3,Self-Employed,Graduate,0
+41,81396,37007,9,2,27604,8,Salaried,High School,0
+40,71226,5661,6,2,25095,6,Salaried,Post-Graduate,0
+28,101182,49843,4,4,5956,2,Salaried,High School,1
+27,102565,35137,1,3,16473,6,Unemployed,Graduate,1
+23,49402,47828,8,4,4815,0,Salaried,High School,1
+37,24263,15526,7,2,19235,2,Salaried,Post-Graduate,0
+53,116523,8374,2,1,2843,5,Salaried,Post-Graduate,1
+32,66828,30592,8,2,29301,3,Self-Employed,Post-Graduate,0
+42,67924,33982,5,4,26460,6,Salaried,Post-Graduate,0
+42,94182,5207,7,3,28747,2,Salaried,Post-Graduate,1
+50,113065,40433,4,3,15972,0,Salaried,Post-Graduate,1
+58,79052,28197,5,4,25501,8,Salaried,Graduate,0
+58,31664,38400,8,3,28310,5,Salaried,Graduate,0
+28,55737,8083,1,5,22927,7,Salaried,Graduate,0
+47,109563,34328,1,1,22285,2,Self-Employed,High School,1
+47,49373,47891,4,1,17353,7,Salaried,High School,0
+54,56397,25103,3,1,1094,1,Salaried,Graduate,1
+41,106145,44891,2,3,6124,3,Salaried,High School,1
+50,58709,15754,3,3,23731,2,Unemployed,High School,1
+53,81120,39447,1,2,19579,9,Unemployed,Post-Graduate,0
+48,39250,20901,1,2,1404,0,Self-Employed,Post-Graduate,1
+53,41172,38004,6,1,27940,6,Salaried,High School,0
+25,31555,12446,5,5,23324,9,Salaried,High School,0
+39,107410,42211,8,2,20674,1,Salaried,Graduate,1
+24,98617,34301,2,2,3982,3,Salaried,High School,1
+55,73276,31116,4,3,12515,8,Salaried,Post-Graduate,0
+37,77492,46323,8,5,15790,5,Self-Employed,High School,1
+64,73002,23752,6,1,12205,7,Self-Employed,Graduate,0
+48,109599,37376,1,2,21939,1,Self-Employed,Post-Graduate,1
+50,92355,21669,4,5,24338,6,Salaried,Post-Graduate,0
+49,111248,37916,1,5,12748,5,Self-Employed,Post-Graduate,1
+26,44762,18395,2,1,21097,8,Salaried,Post-Graduate,0
+55,31046,25421,5,5,3092,6,Salaried,High School,0
+61,116999,31342,8,5,20543,0,Self-Employed,Graduate,1
+57,48769,9895,8,5,22692,7,Salaried,High School,0
+44,73302,16023,3,2,26650,9,Salaried,High School,0
+49,43150,15699,4,1,23862,2,Salaried,Post-Graduate,0
+51,88247,14715,6,5,24860,1,Self-Employed,Graduate,1
+55,24853,24169,3,5,13971,2,Self-Employed,Post-Graduate,0
+53,114613,21163,2,2,14616,5,Salaried,High School,1
+41,109399,10782,6,1,4933,2,Self-Employed,High School,1
+52,41792,27641,5,3,4926,9,Salaried,Post-Graduate,0
+43,79129,23792,5,2,25763,4,Salaried,High School,0
+53,94478,40585,5,1,3969,5,Self-Employed,High School,1
+23,87298,35682,5,5,2965,7,Self-Employed,Post-Graduate,1
+38,51987,23880,3,1,4319,6,Unemployed,High School,0
+45,35850,43067,7,1,8975,7,Salaried,Graduate,0
+62,32112,47685,6,1,7108,2,Self-Employed,Post-Graduate,1
+51,44058,23073,4,3,9141,3,Self-Employed,Graduate,1
+23,65420,41035,2,1,20323,5,Unemployed,High School,0
+60,58890,42174,9,3,16428,6,Salaried,High School,0
+44,86017,29837,1,5,1810,8,Self-Employed,Post-Graduate,1
+52,67304,22826,4,3,20950,0,Salaried,High School,1
+42,52921,29981,1,5,10273,7,Salaried,Post-Graduate,0
+43,21524,15382,6,5,28074,7,Salaried,Post-Graduate,0
+22,35048,9437,4,3,9021,5,Salaried,Post-Graduate,0
+47,55111,10435,5,2,18293,3,Salaried,Post-Graduate,0
+62,57904,29819,5,4,6364,2,Self-Employed,Post-Graduate,1
+22,74912,41875,9,1,2581,2,Salaried,Graduate,1
+46,54008,36982,1,4,691,5,Self-Employed,Post-Graduate,1
+37,20060,38328,2,1,28595,7,Salaried,Graduate,0
+60,94666,17329,6,1,931,6,Salaried,High School,1
+53,103559,30169,5,5,13128,0,Salaried,Post-Graduate,1
+29,75337,26932,7,1,24294,5,Salaried,High School,0
+63,33350,39594,3,1,14226,6,Salaried,Post-Graduate,0
+59,44354,16421,3,3,13861,6,Salaried,Graduate,0
+49,65186,12629,2,4,15475,8,Salaried,Graduate,0
+62,48145,13325,3,3,22766,9,Salaried,Graduate,0
+46,54020,33495,1,1,3406,4,Salaried,High School,1
+55,106123,36750,5,5,8339,0,Salaried,Post-Graduate,1
+45,95186,34619,5,3,17416,1,Salaried,High School,1
+44,105469,45461,7,3,17695,3,Unemployed,Graduate,1
+33,40581,13264,4,2,8579,4,Self-Employed,High School,0
+27,108929,17686,3,1,3121,8,Self-Employed,Graduate,1
+56,43051,29226,1,5,18257,0,Salaried,Graduate,1
+40,71474,11721,8,3,28164,2,Self-Employed,Graduate,1
+21,111748,25609,3,3,25491,4,Self-Employed,Post-Graduate,1
+28,89626,12373,2,5,26454,2,Self-Employed,Post-Graduate,1
+36,26960,43675,4,1,23165,3,Salaried,Graduate,0
+34,55772,33937,3,2,15946,2,Self-Employed,High School,1
+32,41520,10656,1,3,3748,3,Self-Employed,High School,1
+43,69481,13984,3,2,277,0,Salaried,Post-Graduate,1
+35,56408,34984,2,4,26553,7,Self-Employed,Graduate,0
+48,114006,13286,8,1,18243,3,Salaried,High School,1
+54,77134,10901,6,4,27612,6,Salaried,Graduate,0
+22,40491,36552,9,4,11563,1,Salaried,High School,1
+52,21341,30709,8,4,22313,1,Self-Employed,Post-Graduate,0
+43,64623,36055,3,1,6792,5,Salaried,Graduate,1
+42,110327,42685,5,1,21097,1,Salaried,Graduate,1
+45,20338,13429,7,5,13918,5,Salaried,High School,0
+42,91431,19716,5,2,10374,1,Salaried,High School,1
+42,32254,16138,8,2,4675,3,Salaried,High School,1
+62,71860,40298,5,5,1170,6,Self-Employed,Graduate,1
+26,31344,28429,1,5,8681,7,Self-Employed,Post-Graduate,0
+35,21750,10772,5,4,10717,2,Salaried,Post-Graduate,0
+63,74756,40732,4,5,25758,8,Salaried,High School,0
+57,87957,44905,6,3,29055,1,Salaried,Post-Graduate,1
+53,78053,22347,3,2,12450,7,Self-Employed,High School,0
+28,90855,21920,5,5,10680,7,Salaried,Post-Graduate,1
+64,35896,36822,2,3,10068,3,Salaried,Graduate,0
+64,75761,45108,6,3,21692,0,Salaried,High School,1
+25,82552,28563,6,3,2462,0,Self-Employed,Post-Graduate,1
+59,97454,12967,5,3,13650,1,Self-Employed,Graduate,1
+24,110600,16871,6,4,26206,8,Self-Employed,Post-Graduate,0
+26,47935,33763,7,3,29876,1,Self-Employed,Graduate,0
+52,57641,16916,5,4,287,1,Salaried,Graduate,1
+50,49711,13734,1,4,22337,5,Salaried,Post-Graduate,0
+55,90342,38613,8,3,20666,6,Salaried,Post-Graduate,0
+60,32182,33179,4,2,18291,6,Salaried,Graduate,0
+36,107833,40262,9,3,1161,8,Salaried,Graduate,1
+33,76276,17677,6,3,16513,5,Salaried,Graduate,0
+62,39541,23268,1,3,22721,7,Salaried,High School,0
+50,114457,17330,3,2,2363,5,Unemployed,Graduate,1
+39,102310,25733,3,1,24535,1,Self-Employed,High School,1
+37,64813,42947,4,1,5983,0,Self-Employed,Graduate,1
+39,57198,32286,6,4,16527,4,Self-Employed,High School,0
+48,28820,11610,7,4,8207,8,Salaried,Graduate,0
+46,44070,11430,4,2,23853,7,Self-Employed,Graduate,0
+57,89768,44922,6,5,14758,3,Salaried,Graduate,1
+46,31122,18828,1,1,244,4,Self-Employed,Post-Graduate,0
+43,100559,47913,8,4,17310,4,Salaried,Post-Graduate,1
+29,93543,36497,7,1,3178,5,Unemployed,Graduate,1
+32,103441,44256,9,2,2176,2,Salaried,High School,1
+21,61786,41618,3,2,5002,4,Salaried,High School,1
+21,114934,31526,2,5,886,1,Unemployed,Graduate,1
+54,119804,35158,1,5,24916,9,Salaried,Post-Graduate,0
+52,26737,30032,3,2,26627,0,Self-Employed,High School,0
+45,56062,42846,5,4,19782,0,Self-Employed,Post-Graduate,1
+60,74237,49936,2,1,13721,9,Self-Employed,High School,0
+21,71571,34794,3,3,12142,6,Unemployed,Graduate,0
+36,45510,10448,4,5,24881,1,Unemployed,Post-Graduate,0
+59,39426,33861,7,3,25483,3,Salaried,High School,0
+25,57265,33141,3,4,2654,4,Self-Employed,Graduate,1
+42,37850,14074,9,5,11984,6,Self-Employed,Graduate,0
+49,86150,11406,8,3,23776,1,Self-Employed,Graduate,1
+23,107312,36823,4,4,28618,5,Salaried,Post-Graduate,1
+32,109613,28291,1,1,17755,0,Self-Employed,Post-Graduate,1
+46,94910,46568,1,4,7135,6,Unemployed,Graduate,1
+36,72375,37003,1,5,320,8,Unemployed,Post-Graduate,0
+57,55435,39406,1,2,4654,4,Salaried,High School,1
+42,116443,28312,8,1,28635,4,Salaried,Graduate,1
+49,77132,48108,3,3,21684,3,Salaried,Graduate,1
+34,98945,6382,6,5,23145,2,Self-Employed,Post-Graduate,1
+48,102050,39171,3,2,23238,8,Self-Employed,Graduate,0
+25,115402,46779,5,4,21889,4,Salaried,High School,1
+50,22983,8292,7,2,16131,7,Salaried,Post-Graduate,0
+25,117241,46779,2,5,25707,8,Salaried,Post-Graduate,0
+32,40662,38187,6,5,10770,4,Salaried,Graduate,0
+36,43510,17411,6,2,6553,9,Unemployed,Graduate,0
+46,98187,42285,3,4,20426,8,Self-Employed,Graduate,0
+46,60998,20422,6,2,11559,1,Salaried,Post-Graduate,1
+41,76846,47468,5,5,9009,8,Salaried,Graduate,0
+59,114071,37371,2,5,13482,3,Salaried,High School,1
+56,26640,10693,9,3,7498,5,Unemployed,Graduate,0
+53,64547,38535,8,3,6636,5,Salaried,Graduate,1
+50,74620,19818,3,1,7362,5,Salaried,Post-Graduate,1
+57,35317,36238,8,5,16395,1,Salaried,Graduate,1
+43,27564,35874,9,3,16578,6,Self-Employed,Post-Graduate,0
+30,47345,31715,3,2,2537,5,Self-Employed,Graduate,0
+25,114223,32605,3,4,19226,0,Self-Employed,High School,1
+56,99273,39317,2,2,15216,1,Salaried,High School,1
+54,94859,36174,8,4,18613,6,Salaried,Post-Graduate,1
+51,100765,14956,1,3,3009,0,Salaried,Post-Graduate,1
+30,94038,43908,8,1,24368,0,Self-Employed,Graduate,1
+39,72393,15837,7,2,29327,0,Salaried,Graduate,1
+52,86081,8716,7,2,14209,7,Salaried,High School,0
+21,49430,9481,3,2,15675,3,Self-Employed,Graduate,0
+25,95532,29282,1,4,15029,3,Self-Employed,High School,1
+24,47788,11548,4,3,2077,1,Salaried,Post-Graduate,1
+36,115505,42605,9,2,13907,0,Salaried,Graduate,1
+44,68543,12758,5,2,24229,9,Salaried,Post-Graduate,0
+36,33919,48668,1,1,3867,8,Self-Employed,Graduate,0
+22,89346,28177,5,1,16152,6,Self-Employed,High School,1
+48,116122,29022,8,3,29791,3,Salaried,Post-Graduate,1
+52,59974,45761,8,3,4873,5,Salaried,Post-Graduate,1
+47,36371,10542,5,5,8635,1,Self-Employed,Graduate,1
+40,65084,30476,9,1,297,6,Self-Employed,Post-Graduate,1
+44,49629,35784,1,5,13095,1,Salaried,High School,1
+32,71184,27740,4,4,22240,9,Salaried,Post-Graduate,0
+55,81916,29817,3,5,9036,7,Salaried,Post-Graduate,0
+53,93972,21052,2,2,1015,7,Salaried,Graduate,1
+53,82187,40153,8,5,1384,0,Unemployed,Post-Graduate,1
+63,32984,5671,7,3,25973,7,Self-Employed,Graduate,0
+57,53039,5163,9,4,8745,1,Self-Employed,Graduate,1
+32,105431,46424,2,2,18734,5,Salaried,Post-Graduate,1
+23,103691,49002,4,5,29092,0,Self-Employed,High School,1
+21,78606,9795,6,4,17653,4,Salaried,Graduate,1
+53,30616,15634,3,4,1260,6,Salaried,Post-Graduate,0
+60,70072,9798,8,2,7701,9,Salaried,Graduate,0
+30,44574,27420,3,5,24760,0,Salaried,High School,1
+63,23430,34300,2,4,20947,1,Self-Employed,High School,0
+64,32676,29345,3,4,23281,6,Salaried,Graduate,0
+49,30816,15749,6,1,26986,5,Salaried,High School,0
+33,52733,43595,2,4,29978,2,Salaried,Post-Graduate,0
+32,105680,30121,8,1,22056,9,Salaried,Post-Graduate,0
+51,22050,42487,1,5,29007,1,Salaried,Graduate,0
+22,53933,33411,7,5,10401,9,Salaried,High School,0
+55,44951,38361,2,5,15519,3,Self-Employed,Post-Graduate,0
+43,52413,26223,6,3,21977,2,Salaried,Post-Graduate,0
+37,54801,12394,2,5,11864,6,Salaried,Post-Graduate,0
+46,75619,19056,2,4,15681,7,Salaried,Graduate,0
+28,52913,33380,8,2,22539,1,Self-Employed,Graduate,1
+49,60600,31035,2,1,5543,9,Salaried,Post-Graduate,0
+46,77775,35620,7,3,23624,6,Salaried,Post-Graduate,0
+30,110816,24877,3,5,21067,7,Salaried,High School,0
+46,110093,48404,8,5,18265,5,Salaried,High School,1
+54,55400,35911,7,2,12488,5,Salaried,High School,0
+61,24494,37784,8,2,25097,9,Self-Employed,Graduate,0
+27,100688,8191,7,3,10079,0,Self-Employed,Post-Graduate,1
+24,109431,38160,6,1,10744,3,Salaried,Graduate,1
+31,94691,30000,7,5,3809,0,Self-Employed,Post-Graduate,1
+49,117419,44040,5,3,22191,3,Self-Employed,High School,1
+56,63001,8631,7,4,21267,1,Salaried,High School,1
+45,87364,11172,1,4,7206,4,Salaried,High School,1
+41,65028,47080,1,3,20539,9,Salaried,High School,0
+56,117659,28561,9,5,21057,8,Salaried,Post-Graduate,0
+30,57573,29817,5,3,28992,9,Self-Employed,High School,0
+57,20806,25281,5,5,13746,2,Self-Employed,Post-Graduate,0
+29,76638,33671,3,2,15995,7,Unemployed,Post-Graduate,0
+44,49757,30364,5,3,16035,2,Self-Employed,Graduate,1
+55,54636,46674,3,5,11671,5,Salaried,High School,0
+55,100097,32425,9,3,13210,3,Salaried,High School,1
+56,68280,33602,9,3,17793,7,Self-Employed,Graduate,0
+38,44262,28253,6,5,26270,5,Salaried,Post-Graduate,0
+59,100435,28472,1,5,29240,7,Self-Employed,High School,0
+52,82211,13080,7,1,5197,0,Self-Employed,Post-Graduate,1
+44,74842,12099,7,3,15553,5,Self-Employed,Graduate,0
+43,76979,30431,4,4,7452,0,Self-Employed,Post-Graduate,1
+52,101470,36186,8,3,8718,0,Salaried,High School,1
+57,58197,35111,6,3,14859,7,Self-Employed,Post-Graduate,0
+32,61844,44851,4,5,27236,6,Self-Employed,Post-Graduate,0
+33,84754,27614,4,3,2172,2,Salaried,High School,1
+43,54157,31724,2,3,13158,5,Self-Employed,High School,0
+45,97129,46991,2,4,16663,8,Salaried,Post-Graduate,0
+55,60042,9940,4,5,27540,6,Unemployed,Post-Graduate,0
+61,81665,33758,5,3,20361,2,Salaried,Graduate,1
+50,102856,41224,8,2,19053,5,Salaried,High School,1
+37,47376,12788,6,1,11085,3,Salaried,Post-Graduate,1
+40,75554,33082,4,4,24209,2,Self-Employed,High School,1
+45,34199,29034,7,3,26327,8,Salaried,Graduate,0
+42,101412,40479,8,2,3981,9,Salaried,Post-Graduate,1
+33,70948,16280,2,3,21153,1,Salaried,Post-Graduate,1
+39,93781,23052,7,3,5247,0,Unemployed,Post-Graduate,1
+56,92750,21531,2,5,10553,1,Salaried,High School,1
+32,86262,27804,2,5,20811,6,Salaried,Graduate,0
+61,66600,33903,8,5,29845,9,Self-Employed,High School,0
+39,96898,49857,2,2,6135,0,Salaried,Post-Graduate,1
+32,82483,15142,9,3,5573,5,Unemployed,Graduate,1
+29,38297,14866,1,1,20515,6,Salaried,Post-Graduate,0
+27,50448,9531,9,4,26284,8,Self-Employed,Post-Graduate,0
+48,46172,43098,1,5,13731,7,Salaried,High School,0
+34,62874,43278,2,5,7189,5,Salaried,Post-Graduate,1
+51,27657,33138,6,3,14541,2,Self-Employed,Graduate,0
+39,104386,32065,6,3,10878,7,Salaried,Post-Graduate,1
+36,45425,34956,1,2,11087,6,Self-Employed,Post-Graduate,0
+25,46685,46732,7,2,13667,2,Salaried,High School,1
+55,44578,44261,8,5,20919,8,Salaried,Graduate,0
+32,48831,15759,2,3,2776,1,Salaried,High School,1
+45,27906,10439,8,1,9311,2,Unemployed,Post-Graduate,1
+41,81413,47533,9,4,27564,1,Salaried,High School,1
+56,74028,33270,6,3,28835,0,Salaried,High School,1
+43,27287,18279,5,3,28819,3,Salaried,High School,0
+36,53660,44279,9,2,7697,4,Salaried,High School,1
+59,95758,49251,9,4,14629,5,Salaried,Post-Graduate,1
+62,80504,28888,1,5,8386,4,Unemployed,Post-Graduate,1
+59,79720,22630,3,3,17046,0,Salaried,Graduate,1
+34,54701,40144,9,5,25055,2,Self-Employed,High School,0
+51,103300,36182,2,3,8044,0,Salaried,High School,1
+25,37674,30538,4,5,20602,4,Self-Employed,Graduate,0
+55,103560,16824,4,4,9615,4,Unemployed,High School,1
+43,43874,37125,2,2,15034,5,Salaried,Graduate,0
+49,63642,11979,3,4,5060,7,Unemployed,Post-Graduate,0
+63,117820,31189,3,1,10900,9,Salaried,Graduate,1
+31,85160,47600,1,2,27751,0,Unemployed,High School,1
+38,37602,17504,6,4,22258,3,Self-Employed,Graduate,0
+32,108801,25669,8,1,5581,9,Salaried,Post-Graduate,1
+29,45931,11910,3,3,28390,0,Salaried,High School,1
+30,114377,39964,5,3,2014,8,Salaried,Post-Graduate,1
+64,49192,25131,1,5,20173,6,Salaried,Post-Graduate,0
+37,66542,30227,7,2,12997,6,Salaried,Graduate,0
+58,62520,10978,1,3,10635,4,Salaried,Post-Graduate,1
+27,84772,26991,9,2,25487,6,Salaried,High School,0
+33,78762,22153,8,3,13648,1,Self-Employed,Post-Graduate,1
+60,70106,38548,7,5,7148,3,Salaried,Post-Graduate,1
+62,101121,47676,7,4,24150,6,Salaried,Graduate,0
+29,45559,44071,5,5,27789,2,Self-Employed,Post-Graduate,0
+47,53742,8983,5,1,18748,1,Salaried,Graduate,1
+22,89669,14503,5,3,14022,9,Salaried,Graduate,0
+25,100199,34921,1,1,20013,1,Salaried,High School,1
+49,41754,21905,8,1,5919,0,Unemployed,High School,1
+57,23972,28953,1,2,15886,4,Self-Employed,High School,0
+58,90831,31806,4,3,22059,5,Salaried,High School,1
+39,61873,27168,9,1,28048,5,Self-Employed,Graduate,0
+28,114661,9583,9,4,25256,8,Salaried,Post-Graduate,0
+21,29903,43714,5,1,6638,3,Self-Employed,High School,0
+42,23020,44896,4,4,4651,0,Self-Employed,High School,1
+37,61755,16889,3,2,609,5,Self-Employed,High School,1
+27,105956,32413,3,1,7940,4,Salaried,Post-Graduate,1
+45,106988,17275,5,5,10348,9,Salaried,High School,0
+24,65648,7461,1,2,3866,5,Salaried,Post-Graduate,1
+56,29516,19291,5,4,16755,2,Self-Employed,Graduate,0
+26,22396,16435,6,2,23382,1,Salaried,Graduate,0
+51,104082,32935,7,1,16999,5,Self-Employed,Graduate,1
+39,39129,38453,9,3,23295,0,Unemployed,Post-Graduate,1
+64,21591,23544,3,3,22394,6,Salaried,High School,0
+59,31303,17258,2,4,2253,6,Self-Employed,High School,0
+47,50561,35841,3,4,4942,9,Self-Employed,High School,0
+30,91719,15736,9,3,12330,6,Unemployed,High School,1
+46,112108,42643,7,4,864,9,Unemployed,High School,1
+39,119616,48950,9,2,1268,0,Self-Employed,Post-Graduate,1
+59,106231,39964,2,5,7454,3,Salaried,Graduate,1
+23,27314,33044,5,5,13666,6,Self-Employed,High School,0
+33,39623,44933,4,2,25360,8,Salaried,Graduate,0
+48,87675,20997,2,5,20955,4,Self-Employed,Post-Graduate,1
+40,116826,19215,9,1,12370,1,Unemployed,Post-Graduate,1
+48,85082,38069,9,2,5229,6,Salaried,High School,1
+28,103624,28911,6,4,16309,9,Self-Employed,Post-Graduate,0
+61,53130,22030,6,2,18621,0,Salaried,Graduate,1
+59,71756,34334,8,3,4054,6,Salaried,High School,1
+21,117624,19571,6,4,29471,5,Salaried,High School,1
+23,46292,47719,1,3,935,6,Self-Employed,Graduate,0
+33,106206,33927,4,4,12172,9,Unemployed,High School,0
+48,89274,25714,7,5,22778,2,Unemployed,High School,1
+45,22469,48541,2,2,24275,2,Salaried,Graduate,0
+53,73947,28387,9,1,10530,6,Self-Employed,High School,0
+58,42534,33444,8,4,15560,1,Self-Employed,High School,1
+26,83620,24921,8,4,16156,0,Salaried,Graduate,1
+64,68874,18057,7,3,16709,8,Salaried,Post-Graduate,0
+52,69708,29858,4,5,9726,8,Salaried,Graduate,0
+41,94553,49638,2,3,28056,6,Unemployed,High School,0
+36,88344,31062,3,3,7774,6,Self-Employed,Graduate,1
+41,69138,41850,6,5,20245,2,Self-Employed,High School,1
+31,74302,25567,5,1,1985,9,Salaried,High School,0
+57,67638,34739,8,3,14252,1,Self-Employed,Graduate,1
+56,98249,48285,6,3,21316,6,Salaried,High School,0
+55,22719,8754,6,4,4603,8,Salaried,Post-Graduate,0
+39,42890,32044,1,5,19162,0,Self-Employed,High School,1
+40,97236,6724,4,2,15960,3,Salaried,Graduate,1
+38,56509,6376,5,1,9462,5,Self-Employed,Post-Graduate,0
+61,62534,13706,3,1,25216,6,Salaried,Post-Graduate,0
+34,112241,13894,9,5,14166,9,Self-Employed,High School,0
+35,38787,23037,1,4,29279,6,Salaried,Graduate,0
+51,68845,23450,6,4,7754,9,Salaried,High School,0
+21,77932,21406,6,5,14246,1,Salaried,High School,1
+23,112124,34725,5,4,4078,3,Salaried,Graduate,1
+36,111659,10926,5,1,12853,4,Unemployed,Graduate,1
+43,53062,44019,5,1,17751,0,Salaried,High School,1
+31,95713,14496,6,2,4042,0,Self-Employed,Post-Graduate,1
+32,107263,41068,8,5,16284,9,Unemployed,High School,0
+30,115756,34806,2,3,14389,2,Salaried,Post-Graduate,1
+52,80461,27663,6,3,2575,9,Salaried,High School,0
+36,95418,46321,1,2,6754,2,Self-Employed,Graduate,1
+28,86672,41495,4,2,28179,7,Unemployed,Post-Graduate,0
+58,54832,27656,3,4,17965,8,Unemployed,Graduate,0
+32,51966,30860,9,2,1986,0,Salaried,Graduate,1
+44,92545,21832,3,2,18624,1,Self-Employed,Graduate,1
+48,32987,43787,6,3,20350,9,Salaried,Graduate,0
+28,57311,26727,1,4,26681,1,Unemployed,Graduate,1
+48,51575,47815,6,2,23988,3,Unemployed,High School,0
+56,83852,34545,4,2,15470,1,Salaried,Post-Graduate,1
+46,21007,49522,8,4,24704,6,Salaried,High School,0
+28,90981,7520,9,5,5968,8,Salaried,High School,0
+48,96242,8081,4,4,29377,6,Salaried,High School,0
+48,67517,39196,6,3,28572,5,Self-Employed,Graduate,0
+57,49257,41735,1,5,25427,9,Salaried,High School,0
+61,107272,44213,4,1,7493,0,Salaried,Post-Graduate,1
+56,62207,19566,7,4,4103,9,Salaried,High School,0
+47,33281,19042,1,3,2076,8,Unemployed,Graduate,0
+37,81246,30498,8,5,21615,4,Self-Employed,Post-Graduate,1
+29,21435,16329,6,4,2994,4,Salaried,Post-Graduate,0
+53,118875,36656,5,2,3744,5,Salaried,Post-Graduate,1
+40,111357,7159,9,4,14466,8,Unemployed,Post-Graduate,1
+33,46660,42900,2,1,14523,7,Self-Employed,High School,0
+48,25084,24363,5,4,27332,7,Salaried,Graduate,0
+49,102197,48241,6,5,5594,7,Salaried,Post-Graduate,1
+33,33507,24033,7,5,7531,0,Salaried,Post-Graduate,1
+55,92595,15805,5,4,7371,0,Salaried,Graduate,1
+26,103807,40851,9,5,14547,7,Salaried,High School,1
+38,65539,31832,1,2,18028,4,Unemployed,Post-Graduate,0
+25,27491,18944,7,4,28947,8,Salaried,High School,0
+45,70192,24873,7,2,3144,1,Self-Employed,High School,1
+22,100395,45372,4,2,13990,8,Salaried,High School,0
+30,83888,28928,9,3,14083,7,Self-Employed,High School,0
+50,93609,20379,5,4,16626,8,Self-Employed,Post-Graduate,0
+25,29077,41751,4,5,20469,3,Salaried,Post-Graduate,0
+53,40953,39546,7,2,7954,0,Salaried,High School,1
+21,96919,29286,4,3,7269,0,Self-Employed,High School,1
+38,87889,10110,3,4,7130,4,Salaried,Graduate,1
+52,43821,17087,9,4,6828,1,Salaried,Graduate,1
+31,57567,28762,8,1,24746,7,Salaried,Graduate,0
+41,44860,22081,1,1,8844,9,Unemployed,Post-Graduate,0
+46,41195,39947,7,2,14220,4,Salaried,Graduate,0
+45,97475,14596,9,1,6331,4,Self-Employed,Post-Graduate,1
+42,110874,43019,8,2,19896,1,Salaried,Post-Graduate,1
+47,107266,47003,8,5,13397,6,Self-Employed,Post-Graduate,1
+33,41427,23313,6,2,17883,7,Salaried,Post-Graduate,0
+53,47083,6013,4,1,10291,9,Self-Employed,Graduate,0
+54,107046,28705,8,5,18542,0,Salaried,High School,1
+61,77372,6828,3,1,10164,1,Self-Employed,High School,1
+55,64064,12909,9,2,28501,9,Self-Employed,High School,0
+21,27813,43356,2,3,21546,3,Salaried,Graduate,0
+41,51598,18109,2,4,10450,4,Salaried,High School,0
+26,113106,7023,7,1,20423,1,Salaried,Graduate,1
+48,47082,19537,4,2,2035,0,Salaried,Graduate,1
+37,49241,31661,8,5,11463,8,Self-Employed,Graduate,0
+25,116214,43659,9,1,7977,0,Salaried,High School,1
+51,64569,38848,7,1,17241,3,Salaried,High School,1
+25,31745,42804,5,4,20207,1,Self-Employed,High School,0
+58,46029,20379,8,2,23154,3,Salaried,Post-Graduate,0
+23,33025,32766,4,3,25625,7,Salaried,Graduate,0
+43,34288,48590,2,5,12182,7,Salaried,Post-Graduate,0
+57,109186,7563,6,2,298,8,Unemployed,Graduate,1
+57,26540,41060,9,5,23628,4,Self-Employed,High School,0
+30,117768,34197,1,1,923,6,Self-Employed,Graduate,1
+30,101958,8586,7,4,20616,2,Salaried,Graduate,1
+39,88878,21087,9,4,13331,9,Self-Employed,Post-Graduate,0
+37,61846,28225,9,3,20690,3,Salaried,Graduate,0
+41,95932,34750,3,4,19183,9,Salaried,High School,0
+34,37482,11643,5,1,6578,8,Salaried,Graduate,0
+29,43411,32523,8,3,4875,9,Salaried,Graduate,0
+21,70975,41727,8,2,21710,9,Salaried,Graduate,0
+33,80545,16005,4,4,12254,0,Salaried,Post-Graduate,1
+24,98797,48543,1,3,22966,1,Salaried,Graduate,1
+21,72307,5161,1,1,28621,4,Salaried,Graduate,0
+60,23093,21029,4,5,18186,2,Self-Employed,Post-Graduate,0
+52,97258,19226,6,5,10905,1,Salaried,Post-Graduate,1
+54,42042,33731,8,1,13353,0,Self-Employed,Post-Graduate,1
+48,72930,48922,6,1,29082,9,Salaried,Post-Graduate,0
+51,64413,49848,9,5,15882,2,Self-Employed,High School,1
+28,113623,8390,9,3,27429,0,Salaried,High School,1
+59,117883,10997,2,5,19041,0,Salaried,Graduate,1
+46,53756,17693,1,1,29098,0,Salaried,High School,1
+54,73268,47092,2,4,19730,7,Self-Employed,Graduate,0
+23,59214,5541,5,2,9663,2,Self-Employed,High School,1
+32,101871,26817,4,4,19333,0,Salaried,Post-Graduate,1
+21,48602,42861,4,4,941,6,Salaried,Post-Graduate,0
+64,73331,18428,9,1,1907,9,Self-Employed,High School,0
+25,68901,48934,8,5,4837,2,Self-Employed,High School,1
+50,119986,15258,6,3,13680,7,Salaried,Graduate,1
+50,83416,21044,1,4,24489,3,Salaried,Graduate,1
+37,52196,34411,2,5,17627,3,Salaried,Graduate,0
+43,25626,10469,6,3,5696,4,Self-Employed,Post-Graduate,0
+35,27424,33854,2,4,16226,5,Salaried,Post-Graduate,0
+57,32857,11256,5,3,13543,6,Unemployed,Post-Graduate,0
+41,39982,15720,5,5,12615,3,Salaried,Post-Graduate,0
+34,96961,38937,6,2,1466,7,Salaried,Graduate,1
+22,21980,38598,6,5,20341,5,Salaried,Post-Graduate,0
+31,68290,6651,6,1,18350,0,Unemployed,Post-Graduate,1
+59,46431,24194,2,3,375,0,Self-Employed,Post-Graduate,1
+58,104976,30051,3,2,262,8,Salaried,Post-Graduate,1
+54,102711,32386,6,3,20746,9,Self-Employed,High School,0
+58,46385,14518,8,3,22886,5,Salaried,Graduate,0
+54,58158,21184,1,4,11580,9,Salaried,Graduate,0
+38,43019,38787,1,1,27971,7,Salaried,Post-Graduate,0
+50,38639,26621,2,3,10136,6,Salaried,High School,0
+35,105530,15028,6,5,7833,5,Salaried,Graduate,1
+47,119911,17448,9,5,1893,3,Unemployed,Graduate,1
+54,41563,39051,4,4,8106,6,Salaried,Post-Graduate,0
+58,59341,35447,3,1,11826,8,Unemployed,Post-Graduate,0
+53,25776,23394,8,1,1652,9,Salaried,Graduate,0
+44,56444,39501,9,5,21924,9,Self-Employed,Graduate,0
+35,88916,35254,5,2,28717,6,Salaried,High School,0
+50,28711,23509,9,4,20276,0,Salaried,Graduate,1
+62,94318,19472,2,4,599,9,Salaried,Graduate,1
+37,102970,8471,3,5,21199,8,Salaried,Post-Graduate,0
+25,105553,46796,7,5,18296,3,Self-Employed,Graduate,1
+49,50707,35268,7,2,25868,2,Salaried,Post-Graduate,0
+24,59110,13329,6,2,8792,3,Self-Employed,Graduate,1
+30,81788,39865,6,1,24956,3,Salaried,Graduate,1
+37,102879,33272,2,4,20597,9,Salaried,Graduate,0
+30,58827,47845,6,4,3637,1,Salaried,High School,1
+37,25655,11397,4,5,10355,0,Unemployed,Post-Graduate,1
+40,64859,37373,3,1,15989,9,Self-Employed,High School,0
+44,73625,40525,2,4,28931,0,Salaried,Graduate,1
+25,72098,29570,1,1,9290,7,Salaried,High School,0
+54,35251,23284,5,1,5599,1,Salaried,Post-Graduate,1
+26,20526,23994,2,5,22832,9,Unemployed,Graduate,0
+22,88760,28284,2,1,14342,4,Self-Employed,High School,1
+33,67837,22833,7,2,24941,3,Salaried,High School,0
+63,31536,30122,8,2,13945,7,Salaried,Post-Graduate,0
+63,48541,10017,8,3,10762,1,Salaried,High School,1
+31,99083,21370,4,5,27995,9,Unemployed,Post-Graduate,0
+43,71027,34252,1,3,14312,8,Salaried,Graduate,0
+36,54531,12999,7,2,7382,6,Self-Employed,Graduate,0
+51,28712,27436,1,3,27052,6,Salaried,High School,0
+31,85455,47963,4,5,8982,0,Self-Employed,Graduate,1
+36,94744,7096,8,5,19953,1,Self-Employed,Graduate,1
+28,25109,30279,2,1,7707,3,Self-Employed,High School,0
+24,69268,48363,6,4,17130,3,Self-Employed,Graduate,1
+60,74615,31201,6,1,24888,2,Self-Employed,High School,1
+24,102503,24715,9,5,4633,6,Salaried,Post-Graduate,1
+45,49759,34309,5,2,17304,7,Salaried,Post-Graduate,0
+23,105708,20078,4,2,9269,1,Salaried,Post-Graduate,1
+52,80112,10105,5,1,13778,3,Unemployed,High School,1
+23,46589,34312,5,5,7008,2,Salaried,High School,1
+47,50015,7839,8,2,15523,1,Self-Employed,Graduate,1
+49,49009,8384,8,5,27405,5,Self-Employed,Graduate,0
+52,103309,48619,2,2,18765,3,Salaried,Graduate,1
+39,82046,47821,7,5,3618,5,Salaried,Graduate,1
+41,46143,18493,8,3,25373,1,Salaried,Graduate,0
+25,26154,22069,6,5,20827,3,Salaried,High School,0
+38,41804,12531,5,5,272,5,Salaried,High School,0
+48,61688,42051,9,1,27586,4,Salaried,Post-Graduate,0
+62,84288,12736,3,3,13007,2,Self-Employed,Post-Graduate,1
+42,71195,12710,4,4,18157,7,Unemployed,Post-Graduate,0
+41,40581,6619,9,1,2547,6,Salaried,Post-Graduate,0
+26,72648,18975,6,4,3164,2,Salaried,High School,1
+21,50087,28252,8,2,21164,5,Salaried,High School,0
+25,69930,20261,7,4,14414,3,Self-Employed,High School,1
+61,52981,6431,2,5,29293,4,Self-Employed,Graduate,0
+32,89298,14067,3,4,14327,4,Salaried,Graduate,1
+46,66167,42481,1,1,15576,6,Salaried,Post-Graduate,0
+54,95304,32037,9,1,946,4,Self-Employed,Graduate,1
+34,63408,14557,7,4,14693,2,Self-Employed,High School,1
+46,59499,14435,1,1,27241,9,Salaried,Post-Graduate,0
+47,72269,42766,3,1,16890,4,Self-Employed,Post-Graduate,1
+29,58559,5162,4,4,15540,6,Salaried,Graduate,0
+46,94319,39742,4,3,6719,4,Salaried,Post-Graduate,1
+42,115317,24675,5,3,8435,4,Self-Employed,Graduate,1
+50,116347,13461,3,2,25081,8,Self-Employed,Graduate,0
+63,68787,22015,3,1,29093,2,Salaried,Post-Graduate,1
+37,55488,37591,1,4,11350,5,Unemployed,Graduate,0
+46,94441,33047,7,1,22744,0,Salaried,Graduate,1
+56,94663,39782,1,5,24041,9,Self-Employed,Graduate,0
+21,42431,14833,2,1,3590,4,Salaried,Graduate,1
+28,81681,12896,4,1,10064,7,Self-Employed,Post-Graduate,0
+55,83483,37972,4,3,28369,4,Unemployed,High School,0
+35,69153,46800,5,4,17576,8,Salaried,High School,0
+42,26368,35508,2,1,29001,5,Unemployed,Graduate,0
+34,47424,10347,4,3,29321,7,Self-Employed,Graduate,0
+46,65004,35314,1,2,17848,9,Self-Employed,Graduate,0
+48,103869,7643,2,3,390,7,Salaried,High School,1
+43,108652,45785,1,3,21999,2,Self-Employed,Graduate,1
+34,76985,23681,4,3,12668,6,Self-Employed,Post-Graduate,0
+44,70069,43328,4,1,11569,6,Salaried,Post-Graduate,0
+22,72326,20892,7,1,13029,9,Unemployed,Post-Graduate,0
+46,101061,22073,9,2,22490,5,Salaried,High School,1
+34,43398,41768,9,5,13107,6,Salaried,Graduate,0
+27,118393,35682,5,5,25248,1,Salaried,Graduate,1
+23,70861,37262,1,5,2560,8,Salaried,Graduate,0
+43,95897,36358,1,2,5867,9,Self-Employed,High School,0
+63,101905,19289,6,5,15284,9,Salaried,High School,0
+38,88577,12927,2,5,1211,0,Unemployed,High School,1
+58,85641,6171,8,3,9121,0,Salaried,High School,1
+55,29078,16918,9,1,1539,2,Salaried,Post-Graduate,1
+35,45003,46903,4,1,25488,2,Salaried,High School,0
+45,82768,44110,5,3,17027,0,Salaried,High School,1
+57,71047,16929,8,3,29098,6,Unemployed,High School,0
+48,91626,7539,3,3,8693,3,Self-Employed,Graduate,1
+30,77660,41727,5,1,8921,9,Self-Employed,Graduate,0
+59,69786,27669,3,5,17667,1,Salaried,Graduate,1
+37,21925,10432,3,3,24064,9,Salaried,Post-Graduate,0
+59,103976,25644,3,2,10310,4,Salaried,Post-Graduate,1
+42,46015,23745,7,3,23729,5,Salaried,High School,0
+46,53320,33228,7,4,12744,8,Salaried,Graduate,0
+64,84881,39521,7,3,4386,3,Self-Employed,Post-Graduate,1
+45,110827,36703,8,1,28412,1,Salaried,Graduate,1
+37,46289,31928,5,3,17303,4,Self-Employed,Post-Graduate,0
+33,23389,23322,5,4,12242,2,Salaried,Post-Graduate,0
+40,45683,27360,4,2,18723,1,Salaried,High School,1
+45,33629,34055,7,5,14257,0,Self-Employed,High School,1
+24,81550,47891,4,3,8947,9,Salaried,Post-Graduate,0
+30,44826,21376,2,4,13946,1,Self-Employed,High School,1
+23,46630,11588,4,4,5930,5,Self-Employed,Post-Graduate,0
+61,118762,30000,8,2,5402,7,Salaried,Post-Graduate,1
+38,66163,11304,9,1,22047,2,Unemployed,Graduate,1
+56,118511,12345,3,3,26445,8,Salaried,High School,0
+42,86435,34300,7,4,29048,8,Salaried,High School,0
+54,31653,29259,9,2,16017,1,Self-Employed,High School,1
+28,47961,30470,4,5,21659,7,Salaried,Graduate,0
+60,101941,28017,3,4,507,9,Self-Employed,Graduate,1
+64,94137,20352,5,2,1436,4,Self-Employed,Graduate,1
+39,53662,38365,1,1,27151,3,Unemployed,High School,0
+62,118818,24446,3,1,11618,9,Salaried,High School,1
+61,76446,7336,8,4,8750,4,Salaried,High School,1
+57,41288,14879,8,4,16122,3,Self-Employed,Graduate,0
+26,115081,37316,4,3,7354,7,Salaried,Graduate,1
+46,56877,38340,2,2,11294,3,Salaried,Post-Graduate,1
+54,35313,12521,8,4,20900,9,Salaried,Graduate,0
+26,100885,11171,8,3,13840,5,Salaried,Post-Graduate,1
+57,92715,28481,4,3,20006,1,Salaried,High School,1
+53,30326,23474,3,4,4399,4,Self-Employed,Graduate,0
+42,21560,49629,2,1,5037,5,Self-Employed,High School,0
+41,99148,26008,9,2,28633,4,Salaried,High School,1
+26,103186,6633,1,2,24495,1,Salaried,High School,1
+26,46745,17485,7,1,15848,6,Salaried,High School,0
+24,51890,48617,5,4,3715,3,Self-Employed,Graduate,1
+50,40022,8648,8,2,14877,7,Salaried,High School,0
+31,72579,18140,4,4,7837,6,Self-Employed,Post-Graduate,0
+50,90316,22921,7,4,1301,6,Salaried,Graduate,1
+51,103847,19357,5,3,7370,8,Self-Employed,High School,1
+44,48380,8137,5,1,21569,0,Salaried,Graduate,1
+29,22356,5097,9,4,18539,9,Self-Employed,Post-Graduate,0
+23,90326,16407,9,5,6411,5,Salaried,High School,1
+51,112447,35575,9,1,6365,5,Self-Employed,Post-Graduate,1
+60,109899,17722,6,2,15449,5,Salaried,High School,1
+57,40049,17924,6,3,692,5,Self-Employed,Post-Graduate,0
+56,95717,8750,5,2,28926,9,Self-Employed,High School,0
+44,36082,32733,9,2,1478,6,Salaried,Graduate,0
+51,20661,13535,8,1,6396,9,Self-Employed,High School,0
+26,57412,29487,7,2,8448,5,Salaried,Graduate,0
+22,22920,35651,7,4,10622,0,Salaried,High School,1
+40,111194,9666,6,2,16825,2,Salaried,High School,1
+48,80315,21994,5,3,10073,1,Salaried,Post-Graduate,1
+31,99561,6727,4,3,2646,5,Self-Employed,Post-Graduate,1
+24,28946,39622,3,5,5209,7,Self-Employed,Post-Graduate,0
+35,114242,15800,3,3,28396,2,Salaried,High School,1
+26,65500,42823,6,2,6533,9,Salaried,High School,0
+50,36309,48039,4,3,21061,7,Self-Employed,High School,0
+58,75230,23708,6,1,7211,7,Unemployed,Graduate,0
+22,118656,17819,3,3,9927,4,Salaried,Graduate,1
+35,50027,14369,4,4,11927,7,Unemployed,High School,0
+31,92541,14283,9,1,19029,5,Salaried,Post-Graduate,1
+28,79321,35573,5,5,24594,4,Salaried,Post-Graduate,0
+46,20956,18171,7,4,9316,8,Self-Employed,Post-Graduate,0
+64,94131,35933,2,2,12177,6,Salaried,High School,1
+25,67908,10774,5,2,10846,7,Salaried,Post-Graduate,0
+26,98339,11519,9,2,7933,0,Salaried,High School,1
+46,45963,15983,3,4,5476,1,Self-Employed,Graduate,1
+24,59443,35932,9,4,13853,7,Self-Employed,Post-Graduate,0
+39,119259,35798,6,4,7928,8,Salaried,Graduate,1
+40,59063,23133,4,1,2080,3,Salaried,Post-Graduate,1
+53,100818,19939,7,1,6089,9,Salaried,High School,0
+40,24703,5781,8,2,23780,9,Salaried,High School,0
+32,85128,32624,6,3,26123,8,Salaried,High School,0
+21,92099,11823,5,2,7797,3,Self-Employed,High School,1
+46,45849,23489,6,5,17245,9,Salaried,Post-Graduate,0
+34,51860,44961,5,1,8346,9,Salaried,Graduate,0
+58,51585,34118,8,4,19878,9,Salaried,High School,0
+57,42015,39881,1,1,904,8,Salaried,Post-Graduate,0
+31,97539,21280,7,4,17653,6,Unemployed,Graduate,1
+56,63585,27263,2,5,16788,1,Salaried,High School,1
+33,46958,18565,9,5,25419,8,Salaried,Graduate,0
+63,46017,25354,1,1,9974,3,Salaried,High School,1
+23,96707,47951,6,4,26140,7,Salaried,Graduate,0
+53,65350,30643,9,5,1184,6,Salaried,Graduate,1
+26,32201,28648,1,2,25322,6,Salaried,High School,0
+30,49426,46971,4,2,1725,7,Salaried,Post-Graduate,0
+25,37778,23658,4,4,11380,0,Salaried,Graduate,1
+43,65241,26253,9,1,24846,4,Salaried,High School,0
+30,62229,31390,5,5,13057,1,Salaried,Graduate,1
+64,106652,28128,5,1,22195,1,Unemployed,Graduate,1
+22,68364,18489,6,2,5606,0,Salaried,Post-Graduate,1
+33,118833,43314,1,5,3956,4,Salaried,Graduate,1
+60,104878,37658,1,1,16555,1,Salaried,Graduate,1
+22,77056,11852,9,3,24849,3,Salaried,High School,1
+40,47490,34450,3,4,18690,2,Self-Employed,High School,1
+21,39975,7551,4,4,25734,2,Salaried,Post-Graduate,0
+57,46723,11411,1,3,26282,1,Self-Employed,Graduate,0
+29,43279,38243,9,2,16081,5,Salaried,Graduate,0
+37,98301,26800,8,5,26347,1,Salaried,Graduate,1
+29,31561,15403,2,4,421,7,Self-Employed,Post-Graduate,0
+31,86061,12239,8,3,5540,7,Salaried,Graduate,1
+35,108397,11710,7,3,25785,4,Salaried,High School,1
+44,69153,26384,6,2,16288,9,Salaried,Post-Graduate,0
+58,53142,26038,1,2,15966,6,Self-Employed,High School,0
+55,46916,45846,7,1,15882,3,Salaried,High School,0
+50,84324,27447,7,4,4675,0,Self-Employed,Post-Graduate,1
+51,64965,7285,9,1,9082,1,Salaried,High School,1
+25,24648,42991,1,3,13009,9,Self-Employed,Graduate,0
+64,55133,18521,2,5,27843,9,Salaried,Post-Graduate,0
+34,70677,11971,9,5,29552,3,Self-Employed,High School,0
+31,116059,34139,9,2,29793,0,Salaried,Graduate,1
+29,114588,24909,6,5,6748,7,Unemployed,Graduate,1
+54,119950,16531,6,5,6103,8,Salaried,High School,1
+32,118317,19721,4,5,17857,3,Salaried,Graduate,1
+55,90135,24206,4,3,19627,9,Salaried,Post-Graduate,0
+55,55046,42711,5,5,29054,2,Salaried,High School,0
+21,67064,11530,3,5,18565,1,Salaried,Graduate,1
+60,89350,16116,1,5,26025,4,Unemployed,Graduate,1
+42,65893,5258,1,1,19480,2,Unemployed,High School,1
+49,81272,5282,7,3,23030,9,Salaried,High School,0
+28,112152,18937,1,2,27832,6,Unemployed,High School,0
+31,87649,6898,1,1,11348,5,Salaried,High School,1
+61,84674,9135,3,4,9782,0,Salaried,Post-Graduate,1
+57,33760,11629,4,3,5882,7,Self-Employed,High School,0
+34,41927,48936,4,3,28815,1,Self-Employed,Post-Graduate,0
+50,106475,24584,2,4,22366,4,Unemployed,Post-Graduate,1
+55,81367,28551,1,4,28557,8,Salaried,High School,0
+41,117955,38380,3,4,5798,7,Self-Employed,Post-Graduate,1
+57,32588,22071,4,2,9627,1,Salaried,High School,1
+25,72233,25074,3,5,8415,8,Salaried,High School,0
+39,64738,30188,8,3,24795,4,Salaried,Graduate,0
+34,53397,7307,1,5,12466,9,Unemployed,High School,0
+46,102189,44901,2,5,9846,5,Self-Employed,Graduate,1
+24,96367,16205,7,4,12720,2,Self-Employed,Post-Graduate,1
+45,91260,10906,4,2,24840,2,Salaried,Graduate,1
+62,96619,7591,8,1,9145,9,Salaried,Post-Graduate,0
+45,39816,20149,3,2,4524,7,Salaried,High School,0
+38,62240,49918,6,5,28309,9,Salaried,Post-Graduate,0
+60,26276,44951,9,2,6559,9,Salaried,Post-Graduate,0
+28,99530,30150,1,4,7620,1,Self-Employed,High School,1
+59,43499,36852,1,1,19158,1,Salaried,Post-Graduate,1
+60,108576,47870,8,4,22057,4,Salaried,High School,1
+34,102495,6283,3,1,3124,5,Salaried,Graduate,1
+52,91635,38691,5,5,8671,1,Salaried,High School,1
+58,105112,6125,1,1,11706,4,Salaried,High School,1
+53,55946,6529,5,1,17737,6,Unemployed,Post-Graduate,0
+43,75204,31170,6,1,27898,9,Self-Employed,Graduate,0
+35,71886,13438,8,2,12070,9,Self-Employed,High School,0
+53,91652,25095,3,2,25465,7,Salaried,Graduate,0
+45,35563,21154,3,5,20238,6,Salaried,Graduate,0
+37,112324,13004,9,1,8134,7,Salaried,Post-Graduate,1
+53,112464,14752,4,3,924,8,Self-Employed,High School,1
+22,29847,48360,4,5,18554,4,Self-Employed,Post-Graduate,0
+34,46155,31819,7,1,26478,4,Salaried,High School,0
+60,99671,41632,2,1,5506,9,Salaried,Graduate,0
+60,103310,31515,8,2,13650,3,Salaried,High School,1
